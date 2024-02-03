@@ -1,0 +1,30 @@
+{
+  "name":"root",
+  "value":[],
+  "children": [
+    {
+      "name": "1",
+      "values": [17,4,8,3,13,7],
+      "children" : [
+        {
+      "name": "2",
+      "values": [1,13,14,17,7,8,5,11],
+      "children" : [
+        {
+      "name": "3",
+      "values": [1,20,9,18,11,7,15,3],
+      "children" : [
+        {
+          "name": "4",
+          "values": [11,7,10],
+          "children" : []
+        }
+        ]
+        }
+        ]
+        }
+        ]
+    }
+    ]
+    
+}

@@ -1,0 +1,64 @@
+{
+  "name":"root",
+  "value":[],
+  "children": [
+    {
+      "name": "1",
+      "values": [17,4,8,3,13,7],
+      "children" : [
+        {
+          "name": "4",
+          "values": [11,7,10],
+          "children" : []
+        },
+        {
+          "name": "5",
+          "values": [9,10,2,20,14,3],
+          "children" : []
+        }
+        ]
+    },
+    {
+      "name": "2",
+      "values": [1,13,14,17,7,8,5,11],
+      "children" : [
+        {
+          "name": "6",
+          "values": [6,19,12,11,15,17,10,5,13,8],
+          "children" : [
+            {
+              "name": "8",
+              "values": [14,5,6,11,19],
+              "children" : [
+                {
+                  "name": "9",
+                  "values": [2,15,11,18],
+                  "children" : []
+                },
+                {
+                  "name": "10",
+                  "values": [20,15,9,7],
+                  "children" : []
+                },
+                {
+                  "name": "11",
+                  "values": [20,5,15,8],
+                  "children" : []
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    {
+      "name": "3",
+      "values": [1,20,9,18,11,7,15,3],
+      "children" : [{
+                  "name": "7",
+                  "values": [18],
+                  "children" : []
+                }]
+    }
+    ]
+}
